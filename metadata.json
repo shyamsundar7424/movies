@@ -1,0 +1,8 @@
+{
+  "name": "CineVerse",
+  "description": "CineVerse is a premium Netflix-style Movie & Anime Streaming application featuring a dark neon aesthetic, cute anime mascots, personalized AI recommendations, custom HD player, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
